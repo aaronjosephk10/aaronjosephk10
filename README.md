@@ -108,9 +108,6 @@ I think like an attacker to build better defenses — the best security engineer
 
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronjosephk10&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
