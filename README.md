@@ -106,12 +106,7 @@ I think like an attacker to build better defenses — the best security engineer
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaronjosephk10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronjosephk10&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronjosephk10&theme=tokyonight&hide_border=true" />
