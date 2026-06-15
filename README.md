@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&center=true&vCenter=true&width=900&color=38BDF8&lines=Hi%2C+I'm+Aaron+Joseph;Cybersecurity+%7C+MTech+Student;Ethical+Hacking+%7C+Network+Security;Python+%7C+Backend+%7C+Security+Tools;Breaking+Things+to+Make+Them+Safer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&center=true&vCenter=true&width=900&color=38BDF8&lines=Hi%2C+I'm+Aaron+Joseph;Cybersecurity+%7C+BTech+Student;Ethical+Hacking+%7C+Network+Security;Python+%7C+Backend+%7C+Security+Tools;Breaking+Things+to+Make+Them+Safer" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
     <td width="65%" valign="top">
 
 🛡️ **I'm currently working on**
-Cybersecurity research projects, network security tools, and secure backend systems as part of my MTech final year.
+Cybersecurity research projects, network security tools, and secure backend systems as part of my BTech final year.
 
 🤝 **I'm looking to collaborate on**
 Capture The Flag (CTF) challenges, open-source security tools, and cybersecurity research initiatives.
